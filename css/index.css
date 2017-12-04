@@ -1,0 +1,284 @@
+li{
+    list-style: none;
+}
+.menu-1 a{
+    /*color: #ffffff!important;*/
+}
+.fh5co-cover{
+    height: 500px!important;
+}
+
+#fh5co-header .btn{
+    background: #91d9ff!important;
+}
+.fh5co-cover .overlay{
+    background:rgba(42, 51, 86, 0.5)
+}
+/*#fh5co-header .display-tc .btn, #fh5co-counter .display-tc .btn, .fh5co-cover .display-tc .btn{*/
+    /*padding: 5px 30px!important;*/
+/*}*/
+.feature-center:hover{
+    background:#fff!important;
+}
+#fh5co-footer{
+    background:#618eb9!important;
+}
+.row-pb-md{
+    padding-bottom: 0!important;
+}
+#fh5co-services, #fh5co-started, #fh5co-testimonial, #fh5co-blog, #fh5co-project, #fh5co-about, #fh5co-team, #fh5co-contact, #fh5co-footer{
+    padding: 3em 0;
+}
+/*#fh5co-footer p , a{*/
+    /*color:#fff!important;*/
+/*}*/
+#fh5co-started{
+    background: #fff!important;
+}
+#fh5co-started a , h4{
+    color:#3da3d7!important;
+}
+#fh5co-started li{
+    padding: 30px 0!important;
+}
+/*大屏幕*/
+@media (min-width: 1200px) and (max-width: 2600px) {
+    #fh5co-header .display-tc .btn, #fh5co-counter .display-tc .btn, .fh5co-cover .display-tc .btn{
+        margin-top: 47px!important;
+        z-index: 9999;
+    }
+    #fh5co-header .display-tc .btn, #fh5co-counter .display-tc .btn, .fh5co-cover .display-tc .btn{
+        padding: 15px 160px!important;
+    }
+    #timely{
+        margin-top: 150px;
+    }
+    #fast{
+        margin-top: 150px;
+    }
+    #OnlineApplication{
+        margin-top: 150px;
+    }
+    #fh5co-services .col-md-12{
+        text-align: -webkit-center
+    }
+    #fh5co-services .col-md-12 h3{
+        margin-right: 270px;
+    }
+    #allmap{
+        height:340px;
+        width:500px
+    }
+    #mobile{
+        display: none;
+    }
+    #mobile1{
+        display: block;;
+    }
+    #fh5co-services .col-md-12 p{
+        color: #999999;
+        font-size: 16px
+    }
+    #fh5co-header h2{
+        margin-top: 200px;
+        color:#fff;
+    }
+    #fh5co-header .btn{
+        margin-top: 226px;
+        color:#fff;
+        padding: 8px 100px;
+    }
+}
+
+@media (min-width: 970px) and (max-width: 1200px) {
+
+}
+
+/* 平板电脑和小屏电脑之间的分辨率 */
+@media (min-width: 200px) and (max-width: 979px) {
+
+}
+
+/* 横向放置的手机和竖向放置的平板之间的分辨率 */
+@media (max-width: 767px) {
+
+}
+
+/* 横向放置的手机及分辨率更小的设备 */
+@media (max-width: 480px) {
+    #fh5co-services .col-md-6 h3{
+        text-align: center!important;
+        color:#363636;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    #fh5co-services .col-md-6 p{
+        font-size: 14px
+    }
+    #allmap{
+        height:250px;
+        /*width:400px*/
+    }
+    #fh5co-offcanvas ul li{
+        padding: 15px 0;
+    }
+    #mobile{
+        display: block;
+    }
+    #mobile1{
+        display: none;
+    }
+    #fh5co-services .col-md-12 p{
+        color: #999999;
+        font-size: 12px
+    }
+    #fh5co-header h2{
+        margin-top: 200px;
+        color:#fff;
+    }
+    #fh5co-header .btn{
+        margin-top: 193px;
+        color:#fff;
+        padding: 8px 14px;
+        font-size: 12px;
+    }
+}
+#fh5co-services.border-bottom{
+    position:static ;
+}
+#fh5co-services .col-md-12{
+    margin-bottom: 25px;
+
+}
+
+
+.smallIcon{
+    padding: 0 3px;
+    background: #38a0d6;
+    margin-right: 10px
+}
+.active{
+    color:#39b4f4!important;
+}
+.anchorBL{
+    display:none;
+}
+
+#allmap{
+    border-radius: 5px;
+}
+
+.menu-1 a:hover{
+    color:#00b3ee!important;
+}
+.menu-1 a{
+    font-size: 12px;
+}
+.fh5co-nav{
+    padding:10px 0!important;
+}
+.fh5co-nav a:hover{
+    color:#00b3ee;
+}
+.fh5co-nav{
+    /*background: rgba(182, 182, 182, 0.31)!important;*/
+    /*-webkit-filter: blur(1px);*/
+    /*-moz-filter: blur(1px);*/
+    /*-o-filter: blur(1px);*/
+    /*-ms-filter: blur(1px);*/
+    /*filter: blur(1px);*/
+}
+#fh5co-footer{
+    padding: 3em 0 4em 0;
+}
+.scrolled .fh5co-nav{
+    box-shadow:0px 10px 7px -7px rgba(0, 0, 0, 0.15)
+}
+#fh5co-footer a{
+    color:#fff!important;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

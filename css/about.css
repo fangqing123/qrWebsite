@@ -1,0 +1,232 @@
+li{
+    list-style: none;
+}
+#fh5co-started{
+    background: #fff!important;
+}
+#fh5co-started a , h4{
+    color:#3da3d7!important;
+}
+#fh5co-started li{
+    padding: 30px 0!important;
+}
+#fh5co-footer{
+    padding: 3em 0 4em 0;
+    background:#618eb9!important;
+}
+/*大屏幕*/
+@media (min-width: 1200px) and (max-width: 2600px) {
+    #allmap{
+        height:340px;
+        width:500px
+    }
+    .fh5co-cover.fh5co-cover-sm{
+        height:500px;
+    }
+    /*#fh5co-services p:nth-child(1){*/
+        /*font-size: 14px;*/
+        /*color:#868686;*/
+    /*}*/
+    .qrIntroduce{
+        font-size: 14px!important;
+        color:#999
+    }
+    #fh5co-services p{
+        font-size: 2rem;
+    }
+    #fh5co-services span{
+        font-size: 0.6rem;
+    }
+
+}
+
+@media (min-width: 970px) and (max-width: 1200px) {
+
+}
+
+/* 平板电脑和小屏电脑之间的分辨率 */
+@media (min-width: 200px) and (max-width: 979px) {
+
+}
+
+/* 横向放置的手机和竖向放置的平板之间的分辨率 */
+@media (max-width: 767px) {
+
+}
+
+/* 横向放置的手机及分辨率更小的设备 */
+@media (max-width: 480px) {
+    #allmap{
+        height:250px;
+        width:400px
+    }
+    #fh5co-services p{
+        font-size: 1rem;
+        color:#868686;
+    }
+    #fh5co-services span{
+        font-size: 0.6rem;
+    }
+}
+
+#fh5co-footer a{
+    color:#fff!important;
+    font-size: 14px;
+}
+.fh5co-nav{
+    padding:10px 0!important;
+}
+.fh5co-nav .col-md-9{
+
+}
+.top_nav .col-md-8{
+    height:500px;
+    width:70%;
+    background: #83ceff;
+    /*transform: rotate(-17deg);*/
+    border-radius: 60px;
+    /*transform: translate(20px,0);*/
+    -webkit-transform:rotate(-25deg) translate(7%,-59%);
+}
+.top_nav .col-md-4{
+    height:500px;
+    width:30%;
+    background: #5c8abd;
+    /*transform: rotate(-17deg);*/
+    border-radius: 60px;
+    /*transform: translate(20px,0);*/
+    -webkit-transform:rotate(57deg) translate(-57%,-27%);
+}
+.fh5co-nav{
+    height:65px;
+}
+/*.fh5co-nav a{*/
+    /*color:#fff!important;*/
+/*}*/
+.active{
+    color:#3da3d7!important;
+}
+.fh5co-nav li:hover{
+    color:#fff!important;
+}
+#fh5co-services h3{
+    color:#3da3d7
+}
+
+.line{
+    display: inline-block;
+    width: 2%;
+    border-top: 2px solid #e8e8e8;
+    position: relative;
+    top: -5px;
+    margin-right: 5px;
+}
+.line_2{
+    display: inline-block;
+    width: 2%;
+    border-top: 2px solid #e8e8e8;
+    position: relative;
+    top: -5px;
+    margin-left: 5px;
+}
+.fh5co-heading{
+    font-size: 24px;
+    color:#3da3d7!important;
+}
+.row-pb-md{
+    padding-bottom: 0!important;
+}
+.col-md-6_left{
+    padding: 50px 0;
+}
+.col-md-6_right{
+    border-bottom: 2px solid #64d4e6;
+    border-left:7px solid #64d4e6;
+    position: relative;
+}
+.col-md-6_right1{
+    border-left: 7px solid #bc4f4f;
+    padding: 45px 0!important;
+}
+.col-md-6_left1{
+    border-bottom: 2px solid #bc4f4f;
+}
+.col-md-6_right2{
+    border-left: 7px solid #fedc14;
+    border-bottom: 2px solid #fedc14;
+}
+.col-md-6_left3{
+    border-bottom: 2px solid #868686;
+}
+ .groupList{
+    padding: 20px 0;
+}
+.scrolled .fh5co-nav{
+    box-shadow:0px 10px 7px -7px rgba(0, 0, 0, 0.15)
+}
+.col-md-6_right3{
+    border-left: 7px solid #868686;
+    padding: 51px 0!important;
+}
+.triangleIcon{
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 10px solid #64d4e6;
+    position: absolute;
+    bottom:0;
+    right: 0;
+}
+.triangleIcon1{
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 10px solid #bc4f4f;
+    position: absolute;
+    bottom:0;
+    left: 0;
+}
+.triangleIcon2{
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 10px solid #fedc14;
+    position: absolute;
+    bottom:0;
+    right: 0;
+}
+.triangleIcon3{
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 10px solid #868686;
+    position: absolute;
+    bottom:0;
+    left: 0;
+}
+#fh5co-started{
+    padding: 2em 0;
+}
+.anchorBL{
+    display:none;
+}
+#allmap{
+    border-radius: 5px;
+}
+#fh5co-services .qrColor{
+    color:#64d4e6;
+}
+#fh5co-services .qrColor1{
+    color:#bc4f4f;
+}
+#fh5co-services .qrColor2{
+    color:#fedc14;
+}
+#fh5co-services .qrColor3{
+    color:#868686;
+}
+
